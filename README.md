@@ -24,3 +24,9 @@
   </a>
 </div>
 
+###
+
+<p align="left"><a href="https://www.notion.so/Study-Tracking-1b3162d9a60d8083acbef679d93c9e6e?source=copy_link">Notion's Note</a></p>
+
+###
+
