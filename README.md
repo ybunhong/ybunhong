@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left"><a href="https://www.notion.so/Study-Tracking-1b3162d9a60d8083acbef679d93c9e6e?source=copy_link">Notion's Note</a></p>
+<p align="left"><a href="https://www.notion.so/Career-Tracking-2bae41e9446380dabc8bd7d2cf0dbe98?source=copy_link">Notion's Note</a></p>
 
 ###
 
